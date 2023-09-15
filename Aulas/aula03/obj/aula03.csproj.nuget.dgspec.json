@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Documentos\\GitHub\\C_sharp\\Aulas\\aula01\\C_sharp.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Documentos\\GitHub\\C_sharp\\Aulas\\aula03\\aula03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Documentos\\GitHub\\C_sharp\\Aulas\\aula01\\C_sharp.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Documentos\\GitHub\\C_sharp\\Aulas\\aula03\\aula03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\GitHub\\C_sharp\\Aulas\\aula01\\C_sharp.csproj",
-        "projectName": "C_sharp",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\GitHub\\C_sharp\\Aulas\\aula01\\C_sharp.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\GitHub\\C_sharp\\Aulas\\aula03\\aula03.csproj",
+        "projectName": "aula03",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\GitHub\\C_sharp\\Aulas\\aula03\\aula03.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\GitHub\\C_sharp\\Aulas\\aula01\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\GitHub\\C_sharp\\Aulas\\aula03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
