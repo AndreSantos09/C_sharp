@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Documentos\GitHub\C_sharp\Aulas\aula08\obj\Debug\net7.0\aula08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\GitHub\C_sharp\Aulas\aula08\obj\Debug\net7.0\aula08.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\GitHub\C_sharp\Aulas\aula08\obj\Debug\net7.0\aula08.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\GitHub\C_sharp\Aulas\aula08\obj\Debug\net7.0\aula08.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\GitHub\C_sharp\Aulas\aula08\bin\Debug\net7.0\aula08.exe
+C:\Users\andre\OneDrive\Documentos\GitHub\C_sharp\Aulas\aula08\bin\Debug\net7.0\aula08.deps.json
+C:\Users\andre\OneDrive\Documentos\GitHub\C_sharp\Aulas\aula08\bin\Debug\net7.0\aula08.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\GitHub\C_sharp\Aulas\aula08\bin\Debug\net7.0\aula08.dll
+C:\Users\andre\OneDrive\Documentos\GitHub\C_sharp\Aulas\aula08\bin\Debug\net7.0\aula08.pdb
+C:\Users\andre\OneDrive\Documentos\GitHub\C_sharp\Aulas\aula08\obj\Debug\net7.0\aula08.dll
+C:\Users\andre\OneDrive\Documentos\GitHub\C_sharp\Aulas\aula08\obj\Debug\net7.0\refint\aula08.dll
+C:\Users\andre\OneDrive\Documentos\GitHub\C_sharp\Aulas\aula08\obj\Debug\net7.0\aula08.pdb
+C:\Users\andre\OneDrive\Documentos\GitHub\C_sharp\Aulas\aula08\obj\Debug\net7.0\aula08.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Documentos\GitHub\C_sharp\Aulas\aula08\obj\Debug\net7.0\ref\aula08.dll
