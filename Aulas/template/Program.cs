@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace aula13
+namespace
 {
     class Principal
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }
