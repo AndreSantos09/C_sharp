@@ -7,7 +7,6 @@ namespace aula14
         static void Main(string[] args)
         {
             int[] vetor = new int[5];
-
             
             for (int i = 0; i < vetor.Length; i++)
             {
